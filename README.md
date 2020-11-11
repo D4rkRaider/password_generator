@@ -1,4 +1,4 @@
 # Password Generator
-Simple GUI Application to generate random passwords.
-
-With Souce code and Executable file.
+> Simple GUI Application to generate random passwords.  
+> Coded with Python.  
+> With Source code and Executable file.
